@@ -8,5 +8,5 @@
 #define COMP_MONTH 12            //Mois de la compilation
 #define COMP_YEAR 2013          //Ann�e de la compilation
 
-using namespace std;
+using namespace std;  //Pas bon ça!
 void afficherInfos(char* chemin);
